@@ -68,7 +68,7 @@ public class MemberController extends HttpServlet{
 	// memberDTO != null 아이디 비밀번호 일치=> 세션값 저장=>main.me
 	// memberDTO == null 아이디 비밀번호 틀림=> member/msg.jsp
 		}
-		
+		ㅗㅓㅏㅗㅓ
 		
 	}//doProcess()
 
